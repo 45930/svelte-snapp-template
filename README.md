@@ -11,3 +11,7 @@ Based on:
 ## Run Locally
 
 `yarn dev`
+
+## Caveats
+
+Make sure you are running node 16+
